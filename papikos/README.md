@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <!-- Actual text -->
 ## CONTACT
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
